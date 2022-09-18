@@ -135,7 +135,7 @@ body {
 
 @media screen and (max-width: 1120px) {
     .four-card-feature {
-        min-width: 100%;
+        min-height: 100%;
     }
 
     .items {
