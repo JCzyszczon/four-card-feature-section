@@ -71,14 +71,14 @@ body {
     border-radius: 0.5rem;
     padding: 28px 32px 32px 32px;
     cursor: pointer;
-    box-shadow: 0px 5px 15px 0px var(--p-color);
+    box-shadow: 12px 7px 20px 6px rgb(57 75 84 / 8%);
     transition: all 0.2s ease-in-out;
     width: 100%;
 }
 
 .items article:hover {
     transform: translateY(-0.3em);
-    box-shadow: 0px 10px 15px 0px var(--header-color);
+    box-shadow: 12px 12px 20px 6px rgb(90 75 84 / 8%);
 }
 
 .items article h2 {
